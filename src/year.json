@@ -1,0 +1,15 @@
+{
+    "parts": [
+        {
+            "regex_def": "Date: [A-Za-z]{3}, [0-9]{1,2} [A-Za-z]{3} ",
+            "is_public": false
+        },
+        {
+            "regex_def": "([0-9]{4})",
+            "is_public": true
+        }
+    ]
+}
+
+
+  
